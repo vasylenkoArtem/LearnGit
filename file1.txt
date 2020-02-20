@@ -1,2 +1,8 @@
 content for file1
+<<<<<<< HEAD
 adding yet more code
+ fixung bux 1234
+
+=======
+fixung bux 1234
+>>>>>>> fixed bug #1234
