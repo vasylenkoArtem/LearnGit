@@ -6,3 +6,4 @@ adding yet more code
 =======
 fixung bux 1234
 >>>>>>> fixed bug #1234
+Fix1
