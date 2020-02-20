@@ -1,2 +1,2 @@
-readme for learn gitFeature2
-+some info for conflict
+readme earn gitFeature2
++some nfo for conflict
