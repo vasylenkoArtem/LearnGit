@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-conflict2
-=======
-conflict data
->>>>>>> feature2_additional
